@@ -1,7 +1,6 @@
 # Bank_Marketing_Effectiveness_Prediction
 
-![image]([https://github.com/NamiraMujawar/Bank_Marketing_Effectiveness_Prediction/assets/120715329/38844775-093f-48ed-8eee-c75705de7be9](![image](https://github.com/Sankhdeep/Bank_Marketing_Effectiveness_Prediction-Classification/assets/119426983/9cc48120-32bc-47ab-a350-c5301bd50b25)
-))
+![image](https://github.com/Sankhdeep/Bank_Marketing_Effectiveness_Prediction-Classification/assets/119426983/9cc48120-32bc-47ab-a350-c5301bd50b25)
 
 Bank marketing effectiveness prediction is a critical task for financial institutions to optimize their marketing strategies and improve customer acquisition and retention. The predictive analysis helps in understanding which customers are more likely to respond positively to marketing campaigns, thus enabling banks to allocate resources efficiently and maximize their return on investment. Here are some of the importance and advantages of Bank Marketing Effectiveness Prediction:
 
